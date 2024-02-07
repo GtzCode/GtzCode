@@ -1,17 +1,25 @@
 
-![Banner GtzCode](github-header-image.png)
+<div id="Banner" align="center">
+    <img src="github-header-image.png"/>
+</div>
+
+</br>
+
+<div id="Social" align="center">
+<a href="https://github.com/GtzCode" title="HTML link image example">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:gtz.code@gmail.com" title="HTML link image example">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GitHub"/>
+</a>
+</div>
 
 
-
-
-
-[![GitHub][GitHub]][GitHub-url]
-[![Gmail][Gmail]][Gmail-url]
+# About me 👋
 
 Hello!!! I am Gilberto Gutiérrez a technology enthusiast. I from Mexico. I have been working as a software developer since 2017. I have been working since 2017 as a software developer mainly with databases, PL/SQL language and web development.
 
-
-
+# Technologies 💻
 ![Oracle][Oracle]
 ![PL-SQL][PL-SQL]
 ![SQL-Loder][SQL-Loder]
@@ -32,20 +40,18 @@ Hello!!! I am Gilberto Gutiérrez a technology enthusiast. I from Mexico. I have
 ![VsCode][VsCode]
 ![Notepad][Notepad]
 
+
+## Repository statistics 📈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtzcode&layout=compact&theme=dark)
 
 
 
-<div id="header" align="center">
+
+<div id="Footer" align="center">
   <img src="https://media.giphy.com/media/zPQnUQ0Ev2iB6REfBO/giphy.gif?cid=ecf05e47ifzdinlqqo4go25zd2gzt0uyhetqgopjt300bykg&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"/>
 </div>
 
 
-[GitHub-url]:https://github.com/GtzCode
-[Gmail-url]:mailto:gtz.code@gmail.com
-
-[GitHub]:https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
-[Gmail]:https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [Typescript]:https://img.shields.io/badge/%20typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=%23ffffff&labelColor=%233178C6
 [Postgresql]:https://img.shields.io/badge/%20postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=%23ffffff&labelColor=%234169E1
 [PL-PgSQL]:https://img.shields.io/badge/%20PL/PGSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=%23ffffff&labelColor=%234169E1

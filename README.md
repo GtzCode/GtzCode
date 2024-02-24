@@ -6,12 +6,10 @@
 </br>
 
 <div id="Social" align="center">
-<a href="https://github.com/GtzCode" title="HTML link image example">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:gtz.code@gmail.com" title="HTML link image example">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GitHub"/>
-</a>
+      <a href="https://github.com/GtzCode" title="HTML link image example">
+            <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+      </a>
+            <img src="https://img.shields.io/badge/gtz.code%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="gmail"/>
 </div>
 
 
@@ -20,6 +18,8 @@
 Hello!!! I am Gilberto Gutiérrez a technology enthusiast. I from Mexico. I have been working as a software developer since 2017. I have been working since 2017 as a software developer mainly with databases, PL/SQL language and web development.
 
 # Technologies 💻
+
+
 ![Oracle][Oracle]
 ![PL-SQL][PL-SQL]
 ![SQL-Loder][SQL-Loder]
@@ -29,13 +29,18 @@ Hello!!! I am Gilberto Gutiérrez a technology enthusiast. I from Mexico. I have
 ![PL-PgSQL][PL-PgSQL]
 ![PgAdmin][PgAdmin]
 
+
 ![NodeJs][NodeJs]
 ![Typescript][Typescript]
 ![NestJs][NestJs]
-![Graphql][Graphql]
+![GraphQL][GraphQL]
+
+
+
 ![ApolloGraphql][ApolloClient]
 ![ReactJs][ReactJs]
 ![Bootstrap][Bootstrap]
+
 
 ![VsCode][VsCode]
 ![Notepad][Notepad]
@@ -45,43 +50,35 @@ Hello!!! I am Gilberto Gutiérrez a technology enthusiast. I from Mexico. I have
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtzcode&layout=compact&theme=dark)
 
 
-
-
 <div id="Footer" align="center">
-  <img src="https://media.giphy.com/media/zPQnUQ0Ev2iB6REfBO/giphy.gif?cid=ecf05e47ifzdinlqqo4go25zd2gzt0uyhetqgopjt300bykg&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"/>
+  <img src="https://media.giphy.com/media/zPQnUQ0Ev2iB6REfBO/giphy.gif?cid=ecf05e47ifzdinlqqo4go25zd2gzt0uyhetqgopjt300bykg&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300"/>
+       
 </div>
 
 
-[Typescript]:https://img.shields.io/badge/%20typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=%23ffffff&labelColor=%233178C6
-[Postgresql]:https://img.shields.io/badge/%20postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=%23ffffff&labelColor=%234169E1
-[PL-PgSQL]:https://img.shields.io/badge/%20PL/PGSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=%23ffffff&labelColor=%234169E1
-[NestJs]:https://img.shields.io/badge/%20nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=%23ffffff&labelColor=%23E0234E
-[Bootstrap]:https://img.shields.io/badge/%20bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=%23ffffff&labelColor=%237952B3
-[ReactJs]:https://img.shields.io/badge/%20reactjs-61DAFB?style=for-the-badge&logo=react&logoColor=%23ffffff&labelColor=%2361DAFB
-[Graphql]:https://img.shields.io/badge/%20graphql-E10098?style=for-the-badge&logo=graphql&logoColor=%23ffffff&labelColor=%23E10098
-[ApolloClient]:https://img.shields.io/badge/%20apollo%20Client-311C87?style=for-the-badge&logo=apollographql&logoColor=%23ffffff&labelColor=%23311C87
-[NodeJs]:https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=%23ffffff&labelColor=%23339933
-[VsCode]:https://img.shields.io/badge/VSCode-passing?style=for-the-badge&logo=visualstudiocode&labelColor=%23007ACC&color=%23007ACC
-[Oracle]:https://img.shields.io/badge/Oracle-passing?style=for-the-badge&logo=oracle&labelColor=%23F80000&color=%23F80000
-[PL-SQL]:https://img.shields.io/badge/PL%2FSQL-passing?style=for-the-badge&logo=oracle&labelColor=%23F80000&color=%23F80000
-[SQL-Loder]:https://img.shields.io/badge/SQL*Loder-passing?style=for-the-badge&logo=oracle&labelColor=%23F80000&color=%23F80000
-[OracleSQLDev]:https://img.shields.io/badge/Oracle%20SQL%20Developer-passing?style=for-the-badge&logo=oracle&labelColor=%23BDD5DE&color=%23BDD5DE
-[PgAdmin]:https://img.shields.io/badge/%20pgadmin-4169E1?style=for-the-badge&logo=postgresql&logoColor=%23ffffff&labelColor=%234169E1
-[OracleCloud]:https://img.shields.io/badge/Oracle_Cloud-passing?style=for-the-badge&logo=oracle&labelColor=%23F80000&color=%23F80000
-[Notepad]:https://img.shields.io/badge/notepad%2B%2B-passing?style=for-the-badge&logo=notepadplusplus&logoColor=%23000000&labelColor=%2390E59A&color=%2390E59A
+[Oracle]:https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=ffffff
+[OracleCloud]:https://img.shields.io/badge/oracle_cloud-F80000?style=for-the-badge&logo=oracle&logoColor=ffffff
+[PL-SQL]:https://img.shields.io/badge/pl%2Fsql-F80000?style=for-the-badge&logo=oracle&logoColor=ffffff
+[SQL-Loder]:https://img.shields.io/badge/sql*loder-BDD5DE?style=for-the-badge&logo=oracle&logoColor=F80000
+[OracleSQLDev]:https://img.shields.io/badge/oracle_sql_developer-BDD5DE?style=for-the-badge&logo=oracle&logoColor=F80000
+
+[Postgresql]:https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff
+[PL-PgSQL]:https://img.shields.io/badge/pl%2Fpgsql-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff
+[PgAdmin]:https://img.shields.io/badge/pgadmin-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff
+
+[NodeJs]:https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff
+[Typescript]:https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff
+[TypeScript-Node]:https://img.shields.io/badge/typescript--node-3178C6?style=for-the-badge&logo=tsnode&logoColor=%23ffffff
+[NestJs]:https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=ffffff
+[GraphQL]:https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=ffffff
+
+[ApolloClient]:https://img.shields.io/badge/apollo_client-311C87?style=for-the-badge&logo=apollographql&logoColor=ffffff
+[ReactJs]:https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000
+[Bootstrap]:https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff
+[Tailwind]:https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff
+[ReactHookForm]:https://img.shields.io/badge/React_hook_form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=ffffff
 
 
-<!--
-**GtzCode/GtzCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[VsCode]:https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff
+[Notepad]:https://img.shields.io/badge/notepad%2B%2B-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=000000
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

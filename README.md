@@ -6,10 +6,14 @@
 </br>
 
 <div id="Social" align="center">
-      <a href="https://github.com/GtzCode" title="HTML link image example">
+      <a href="https://github.com/GtzCode">
             <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
       </a>
-            <img src="https://img.shields.io/badge/gtz.code%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="gmail"/>
+      <img src="https://img.shields.io/badge/gtz.code%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="gmail"/>
+      <a href="https://www.linkedin.com/in/gilgtz/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+      </a>
+            
 </div>
 
 
